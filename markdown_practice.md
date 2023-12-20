@@ -16,8 +16,10 @@ boy
 cool text code stuff
 ```
 
-fancy colors: `#ffffff`
+fancy colors: `#0969DA`
+
 link: [youtube](youtube.com)
+
 image: ![description here; optional](image link)
 
 * star bullet point
@@ -44,5 +46,19 @@ footnotes are like[^1]
 [^1]:  the footnote
 
 alerts:
-> ![NOTE]
+> [!NOTE]
+> just a side note
+
+> [!CAUTION]
+> very big alert
+
+> [!IMPORTANT]
 > IMPORTANT!!
+
+> [!WARNING]
+> just a warning
+
+> [!TIP]
+> and tips
+
+> and now a plain regular quote again
